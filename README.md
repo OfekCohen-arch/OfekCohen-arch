@@ -29,4 +29,4 @@ A multi-tenant SaaS platform for gas stations:
 * AI-powered assistant using GPT-4 for conflict-free scheduling.
 
 ---
-📫 **How to reach me:** [Insert your LinkedIn Link Here]
+📫 **How to reach me:** https://www.linkedin.com/in/ofek-cohen-b956093a9
