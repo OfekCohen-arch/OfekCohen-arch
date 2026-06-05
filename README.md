@@ -27,5 +27,14 @@ A multi-tenant SaaS platform for gas stations:
 * Secure data isolation using PostgreSQL RLS.
 * AI-powered assistant using GPT-4 for conflict-free scheduling.
 
+markdown
 ---
-📫 **How to reach me:** https://www.linkedin.com/in/ofek-cohen-b956093a9
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://vercel.app" alt="Ofek's GitHub Stats" />
+</p>
+
+---
+📫 **How to reach me:**  
+[![LinkedIn](https://www.linkedin.com/in/ofek-cohen-b956093a9)]
+---
