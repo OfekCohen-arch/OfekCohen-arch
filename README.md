@@ -21,7 +21,8 @@ A full-stack Fiverr-clone featuring:
 * Dynamic gig management and reviews.
 * Built with the MERN stack.
 
-#### [GasPro - SaaS Shift Management](https://github.com/Proudjew12/GasPro-Repo-Link-Here)
+#### [GasPro - SaaS Shift Management]
+(https://github.com/OfekCohen-arch/GasStationPro.git)
 A multi-tenant SaaS platform for gas stations:
 * Serverless architecture with Supabase.
 * Secure data isolation using PostgreSQL RLS.
