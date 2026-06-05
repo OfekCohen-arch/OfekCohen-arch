@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="" alt="Banner" width="100%">
+  <img src="IMG_2532.jpeg" alt="Banner" width="100%">
 </div>
 
 # Hi, I'm Ofek Cohen! 👋
