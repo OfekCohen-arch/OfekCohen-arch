@@ -29,5 +29,3 @@ A multi-tenant SaaS platform for gas stations:
 
 ---
 📫 **How to reach me:** https://www.linkedin.com/in/ofek-cohen-b956093a9
-
-זה כל מה שרשמתי
