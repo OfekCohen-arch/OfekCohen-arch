@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**OfekCohen-arch/OfekCohen-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="" alt="Banner" width="100%">
+</div>
 
-Here are some ideas to get you started:
+# Hi, I'm Ofek Cohen! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate **Full-Stack Developer** and a proud graduate of **Coding Academy Israel**. I love building scalable, user-centric web applications and solving complex technical challenges. I'm currently dedicating my time to intensive daily development and pushing the boundaries of what I can build.
+
+### 🛠 Tech Stack
+* **Frontend:** React, TypeScript, CSS
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB, Supabase (PostgreSQL)
+* **Real-time:** Socket.io, Supabase Channels
+* **Tools:** Git, GitHub, REST APIs, AI Integration (OpenAI API)
+
+### 🚀 Featured Projects
+
+#### [LEO - Freelance Marketplace](https://github.com/Proudjew12/fiverr-clone.git)
+A full-stack Fiverr-clone featuring:
+* Real-time chat using Socket.io.
+* Dynamic gig management and reviews.
+* Built with the MERN stack.
+
+#### [GasPro - SaaS Shift Management](https://github.com/Proudjew12/GasPro-Repo-Link-Here)
+A multi-tenant SaaS platform for gas stations:
+* Serverless architecture with Supabase.
+* Secure data isolation using PostgreSQL RLS.
+* AI-powered assistant using GPT-4 for conflict-free scheduling.
+
+---
+📫 **How to reach me:** [Insert your LinkedIn Link Here]
