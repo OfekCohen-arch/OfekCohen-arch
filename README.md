@@ -27,7 +27,6 @@ A multi-tenant SaaS platform for gas stations:
 * Secure data isolation using PostgreSQL RLS.
 * AI-powered assistant using GPT-4 for conflict-free scheduling.
 
-markdown
 ---
 ### 📊 GitHub Stats
 <p align="center">
@@ -37,4 +36,3 @@ markdown
 ---
 📫 **How to reach me:**  
 [![LinkedIn](https://www.linkedin.com/in/ofek-cohen-b956093a9)]
----
