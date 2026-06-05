@@ -1,13 +1,17 @@
-
 <div align="center">
-  <img src="IMG_2532.jpeg" alt="Banner" width="100%">
+  <h1>Hi, I'm Ofek Cohen! 👋</h1>
+  <p><strong>Full-Stack Developer | Coding Academy Graduate</strong></p>
 </div>
-
-# Hi, I'm Ofek Cohen! 👋
 
 I'm a passionate **Full-Stack Developer** and a proud graduate of **Coding Academy Israel**. I love building scalable, user-centric web applications and solving complex technical challenges. I'm currently dedicating my time to intensive daily development and pushing the boundaries of what I can build.
 
 ### 🛠 Tech Stack
+![React](https://shields.io)
+![TypeScript](https://shields.io)
+![NodeJS](https://shields.io)
+![MongoDB](https://shields.io)
+![Supabase](https://shields.io)
+
 * **Frontend:** React, TypeScript, CSS
 * **Backend:** Node.js, Express.js
 * **Database:** MongoDB, Supabase (PostgreSQL)
@@ -16,17 +20,24 @@ I'm a passionate **Full-Stack Developer** and a proud graduate of **Coding Acade
 
 ### 🚀 Featured Projects
 
-#### [LEO - Freelance Marketplace](https://github.com/Proudjew12/fiverr-clone.git)
+#### 💻 [LEO - Freelance Marketplace](https://github.com/Proudjew12/fiverr-clone.git)
 A full-stack Fiverr-clone featuring:
 * Real-time chat using Socket.io.
 * Dynamic gig management and reviews.
 * Built with the MERN stack.
 
-#### [GasPro - SaaS Shift Management](https://github.com/Proudjew12/GasPro-Repo-Link-Here)
+#### ⛽ [GasPro - SaaS Shift Management](https://github.com/Proudjew12/GasPro-Repo-Link-Here)
 A multi-tenant SaaS platform for gas stations:
 * Serverless architecture with Supabase.
 * Secure data isolation using PostgreSQL RLS.
 * AI-powered assistant using GPT-4 for conflict-free scheduling.
 
 ---
-📫 **How to reach me:** https://www.linkedin.com/in/ofek-cohen-b956093a9
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://vercel.app" alt="Ofek's GitHub Stats" />
+</p>
+
+---
+📫 **How to reach me:**  
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/ofek-cohen-b956093a9)
