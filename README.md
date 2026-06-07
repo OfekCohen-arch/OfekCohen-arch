@@ -30,7 +30,7 @@ A multi-tenant SaaS platform for gas stations:
 ---
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OfekCohen-arch&show_icons=true"
+  <img src="https://github-readme-stats.vercel.app/api?username=OfekCohen-arch&show_icons=true&theme=dark"
 alt="Ofek's GitHub Stats" />
 </p>
 
